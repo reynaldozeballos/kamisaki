@@ -2,10 +2,12 @@ kamisaki
 ========
 
 SUMMARY
+-------
 
 Web site for NGOs and Researches, for collecting migrant data through surveys 
 
 FULL DESCRIPTION
+----------------
 
 The problem to solve is to gather the experiences of migrants through surveys 
 ONLINE, free. NGOs and Researches (subscribers) can use this site to design the 
