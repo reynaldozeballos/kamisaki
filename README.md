@@ -1,4 +1,4 @@
-kamisaki
+KAMISAKI
 ========
 
 SUMMARY
@@ -22,6 +22,8 @@ collection of off-line surveys really is important, since in many regions where
 they reside migrants have limited access to the Web.
 
 Reynaldo Zeballos
+-----------------
+
 
 --------------------------
 
@@ -40,3 +42,5 @@ la recolección de sondeos off-line es crucial, ya que en muchas regiones donde 
 migrantes, tienen acceso limitado a la Web.
 
 Reynaldo Zeballos
+-----------------
+
